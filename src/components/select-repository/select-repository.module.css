@@ -1,0 +1,70 @@
+.container {
+    padding: 24px 0 0 24px;
+}
+
+.language {
+    background-color: #2196F3;
+    opacity: 0px;
+    border-radius: 50px;
+    color: white;
+    font-family: Roboto;
+    font-size: 13px;
+    font-weight: 400;
+    padding: 10px;
+    margin-top: 16px;
+}
+
+.titleContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.title {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20.02px;
+    letter-spacing: 0.17000000178813934px;
+}
+
+.rapoTop {
+    display: flex;
+    justify-content: space-between;
+    max-width: 428px;
+    width: 100%;
+}
+
+.titleNameRepo {
+    font-family: Roboto;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 40px;
+}
+
+.text {
+    display: flex;
+    align-items: center;
+    margin-top: 16px;
+}
+
+.text p {
+    padding-left: 10px;
+}
+
+.rapoBottom {
+    display: flex;
+}
+
+.rapoBottom p {
+    opacity: 0px;
+    border-radius: 50px;
+    font-family: Roboto;
+    font-size: 13px;
+    font-weight: 400;
+    padding: 10px;
+    background-color: #00000014;
+    margin:16px 8px 0 0;
+
+}

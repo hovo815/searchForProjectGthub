@@ -1,0 +1,79 @@
+.tableContainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #F2F2F2;
+}
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.contant {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1440px;
+    width: 100%;
+}
+.text{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20.02px;
+    letter-spacing: 0.17000000178813934px;
+    text-align: start;
+    cursor: pointer;
+    width: 182px;
+    padding: 16px 0 16px 0;
+    /* height: 52px; */
+}
+.textWellCome {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-size: 46px;
+    font-weight: 400;
+    line-height: 65.78px;
+    color: #4F4F4F;
+    font-family: Roboto;
+}
+
+.teibleTop {
+    display: flex;
+    justify-content: space-between;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20.02px;
+    letter-spacing: 0.17000000178813934px;
+    text-align: start;
+    padding: 16px 0 16px 0;
+    border-bottom: 1px solid #F2F2F2;
+}
+
+.teibleTitle {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: start;
+    width: 182px;
+    padding: 16px 0 0 0;
+
+}
+
+.title {
+    font-family: Roboto;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 56.02px;
+    padding-top:24px;
+}
+
+.left {
+}
+
+.right {
+    background-color: #F2F2F2;
+}
